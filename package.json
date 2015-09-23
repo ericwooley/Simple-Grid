@@ -1,0 +1,22 @@
+{
+  "name": "simple-grid",
+  "version": "0.0.1",
+  "description": "Simple Grid is a basic lightweight grid, not a CSS framework. There are no styles for buttons, tables, typography etc. etc",
+  "main": "simplegrid.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericwooley/Simple-Grid.git"
+  },
+  "keywords": [
+    "grid"
+  ],
+  "author": "ThisIsDallas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericwooley/Simple-Grid/issues"
+  },
+  "homepage": "https://github.com/ericwooley/Simple-Grid#readme"
+}
