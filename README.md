@@ -1,4 +1,6 @@
 *This is just fork of simple grid that publishes to npm, no other modifications are made. Open an issue if we get behind*
+
+Install Instructions: `npm install --save lightweight-simple-grid`
 <h2>Simple Grid</h2>
 <h3>Intro</h3>
 <p>Simple Grid is a basic lightweight grid, not a CSS framework. There are no styles for buttons, tables, typography etc. etc. Simple Grid comes with two different types of grids. There is a grid for content, which looks like <code>&lt;div class="col-1-3"&gt;&lt;/div&gt;</code> and a grid for layouts, which looks like <code>&lt;div class="col-4-12"&gt;&lt;/div&gt;</code>. Simple Grid is also built for responsive layouts. With fluid columns, the grid will resize to adjust to the browser resolution. To accomodate for mobile and tablet devices, the grid will essentially stack all columns, one above another, when viewed on smaller screens. </p>

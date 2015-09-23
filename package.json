@@ -1,5 +1,5 @@
 {
-  "name": "simple-grid",
+  "name": "lightweight-simple-grid",
   "version": "0.0.1",
   "description": "Simple Grid is a basic lightweight grid, not a CSS framework. There are no styles for buttons, tables, typography etc. etc",
   "main": "simplegrid.css",
